@@ -1,0 +1,2400 @@
+{
+    "draws":
+    [
+        {
+            "productName": "Stryktipset",
+            "seasonLastDraw": false,
+            "productId": 1,
+            "currentNetSale": "5390160,00",
+            "regCloseDescription": "Stryktipset v 2, stänger 2023-01-14 15:59",
+            "extraInfo": null,
+            "drawNumber": 4777,
+            "betIndex": 0,
+            "drawState": "Open",
+            "drawStateId": 2,
+            "regBetDisabled": "NotDisabled",
+            "regOpenTime": "2023-01-09T20:00:00+01:00",
+            "regCloseTime": "2023-01-14T15:59:00+01:00",
+            "cancelCloseTime": "2023-01-14T16:00:00+01:00",
+            "sport":
+            {
+                "id": 1,
+                "type": 1,
+                "name": "Fotboll",
+                "numCountries": 0
+            },
+            "drawComment": "Stryktipset v. 2023-2",
+            "bombenDrawNum": 787,
+            "relatedDraws":
+            [
+                {
+                    "productId": 38,
+                    "drawNumber": 16,
+                    "regCloseTime": "2023-01-14T15:59:00+01:00"
+                },
+                {
+                    "productId": 23,
+                    "drawNumber": 787,
+                    "regCloseTime": "2023-01-14T15:59:00+01:00"
+                }
+            ],
+            "rowPrice": "1,00",
+            "fund": null,
+            "drawEvents":
+            [
+                {
+                    "cancelled": false,
+                    "eventComment": "",
+                    "eventDescription": "Brentford - Bournemou",
+                    "extraInfo": null,
+                    "eventNumber": 1,
+                    "eventTypeId": 1,
+                    "participantType": "Team",
+                    "match":
+                    {
+                        "matchId": 8786,
+                        "matchStart": "2023-01-14T18:30:00+01:00",
+                        "status": "Inte startat",
+                        "statusId": 0,
+                        "sportEventStatus": "NotStarted",
+                        "statusTime": "2023-01-05T17:31:42+01:00",
+                        "coverage": 0,
+                        "participants":
+                        [
+                            {
+                                "id": 80,
+                                "type": "home",
+                                "name": "Brentford",
+                                "trend": 0,
+                                "goalAvg": null,
+                                "shortName": "BRE",
+                                "mediumName": "Brentford",
+                                "countryId": 2,
+                                "countryName": "England",
+                                "isoCode": "ENG",
+                                "managerId": 0,
+                                "arenaId": 0
+                            },
+                            {
+                                "id": 64,
+                                "type": "away",
+                                "name": "Bournemouth",
+                                "trend": 0,
+                                "goalAvg": null,
+                                "shortName": "BRN",
+                                "mediumName": "Bournemou",
+                                "countryId": 2,
+                                "countryName": "England",
+                                "isoCode": "ENG",
+                                "managerId": 0,
+                                "arenaId": 0
+                            }
+                        ],
+                        "league":
+                        {
+                            "id": 1,
+                            "uniqueLeagueId": 0,
+                            "name": "Premier League",
+                            "shortName": null,
+                            "country":
+                            {
+                                "id": 2,
+                                "name": "England",
+                                "isoCode": "ENG",
+                                "population": 0
+                            },
+                            "code": null,
+                            "printAbbreviation": null,
+                            "season": null,
+                            "doShow": false,
+                            "isHome": false,
+                            "legacyKey": 0,
+                            "numTeams": 0,
+                            "popular": false,
+                            "rank": 0
+                        },
+                        "leagueTable": null,
+                        "result":
+                        [],
+                        "media": null,
+                        "mutuals": null
+                    },
+                    "odds":
+                    {
+                        "one": "1,64",
+                        "x": "4,10",
+                        "two": "5,40"
+                    },
+                    "favouriteOdds":
+                    {
+                        "one": "58.70",
+                        "x": "23.48",
+                        "two": "17.83"
+                    },
+                    "startOdds":
+                    {
+                        "one": "1,68",
+                        "x": "4,15",
+                        "two": "4,55"
+                    },
+                    "betMetrics":
+                    {
+                        "eventTypeId": 1,
+                        "eventType": "1X2",
+                        "eventSubTypeId": 2,
+                        "eventSubType": "Fulltid",
+                        "distributionDate": "2023-01-13T19:26:04.085+01:00",
+                        "distributionRefDate": "2023-01-13T13:21:57.267+01:00",
+                        "values":
+                        [
+                            {
+                                "outcome": "1",
+                                "odds":
+                                {
+                                    "odds": "1,64",
+                                    "favouriteOdds": "58,70",
+                                    "startOdds": "1,68"
+                                },
+                                "distribution":
+                                {
+                                    "distribution": "78",
+                                    "refDistribution": "77"
+                                }
+                            },
+                            {
+                                "outcome": "X",
+                                "odds":
+                                {
+                                    "odds": "4,10",
+                                    "favouriteOdds": "23,48",
+                                    "startOdds": "4,15"
+                                },
+                                "distribution":
+                                {
+                                    "distribution": "14",
+                                    "refDistribution": "14"
+                                }
+                            },
+                            {
+                                "outcome": "2",
+                                "odds":
+                                {
+                                    "odds": "5,40",
+                                    "favouriteOdds": "17,83",
+                                    "startOdds": "4,55"
+                                },
+                                "distribution":
+                                {
+                                    "distribution": "8",
+                                    "refDistribution": "9"
+                                }
+                            }
+                        ]
+                    },
+                    "complementaryBetMetrics":
+                    [],
+                    "outcomes": null,
+                    "svenskaFolket":
+                    {
+                        "one": "78",
+                        "x": "14",
+                        "two": "8",
+                        "date": "2023-01-13T19:26:04.085+01:00",
+                        "refOne": "77",
+                        "refX": "14",
+                        "refTwo": "9",
+                        "refDate": "2023-01-13T13:21:57.267+01:00"
+                    },
+                    "tioTidningarsTips":
+                    {
+                        "one": 10,
+                        "x": 0,
+                        "two": 0
+                    },
+                    "providerIds":
+                    [
+                        {
+                            "provider": "BetRadar",
+                            "type": "Normal",
+                            "id": "34152067"
+                        }
+                    ]
+                },
+                {
+                    "cancelled": false,
+                    "eventComment": "",
+                    "eventDescription": "Brighton - Liverpool",
+                    "extraInfo": null,
+                    "eventNumber": 2,
+                    "eventTypeId": 1,
+                    "participantType": "Team",
+                    "match":
+                    {
+                        "matchId": 8790,
+                        "matchStart": "2023-01-14T16:00:00+01:00",
+                        "status": "Inte startat",
+                        "statusId": 0,
+                        "sportEventStatus": "NotStarted",
+                        "statusTime": "2023-01-05T17:31:46+01:00",
+                        "coverage": 0,
+                        "participants":
+                        [
+                            {
+                                "id": 5,
+                                "type": "home",
+                                "name": "Brighton",
+                                "trend": 0,
+                                "goalAvg": null,
+                                "shortName": "BHA",
+                                "mediumName": "Brighton",
+                                "countryId": 2,
+                                "countryName": "England",
+                                "isoCode": "ENG",
+                                "managerId": 0,
+                                "arenaId": 0
+                            },
+                            {
+                                "id": 41,
+                                "type": "away",
+                                "name": "Liverpool",
+                                "trend": 0,
+                                "goalAvg": null,
+                                "shortName": "LFC",
+                                "mediumName": "Liverpool",
+                                "countryId": 2,
+                                "countryName": "England",
+                                "isoCode": "ENG",
+                                "managerId": 0,
+                                "arenaId": 0
+                            }
+                        ],
+                        "league":
+                        {
+                            "id": 1,
+                            "uniqueLeagueId": 0,
+                            "name": "Premier League",
+                            "shortName": null,
+                            "country":
+                            {
+                                "id": 2,
+                                "name": "England",
+                                "isoCode": "ENG",
+                                "population": 0
+                            },
+                            "code": null,
+                            "printAbbreviation": null,
+                            "season": null,
+                            "doShow": false,
+                            "isHome": false,
+                            "legacyKey": 0,
+                            "numTeams": 0,
+                            "popular": false,
+                            "rank": 0
+                        },
+                        "leagueTable": null,
+                        "result":
+                        [],
+                        "media": null,
+                        "mutuals": null
+                    },
+                    "odds":
+                    {
+                        "one": "3,22",
+                        "x": "3,73",
+                        "two": "2,19"
+                    },
+                    "favouriteOdds":
+                    {
+                        "one": "30.00",
+                        "x": "25.90",
+                        "two": "44.11"
+                    },
+                    "startOdds":
+                    {
+                        "one": "3,54",
+                        "x": "3,70",
+                        "two": "1,98"
+                    },
+                    "betMetrics":
+                    {
+                        "eventTypeId": 1,
+                        "eventType": "1X2",
+                        "eventSubTypeId": 2,
+                        "eventSubType": "Fulltid",
+                        "distributionDate": "2023-01-13T19:26:04.085+01:00",
+                        "distributionRefDate": "2023-01-13T13:21:57.267+01:00",
+                        "values":
+                        [
+                            {
+                                "outcome": "1",
+                                "odds":
+                                {
+                                    "odds": "3,22",
+                                    "favouriteOdds": "30,00",
+                                    "startOdds": "3,54"
+                                },
+                                "distribution":
+                                {
+                                    "distribution": "26",
+                                    "refDistribution": "28"
+                                }
+                            },
+                            {
+                                "outcome": "X",
+                                "odds":
+                                {
+                                    "odds": "3,73",
+                                    "favouriteOdds": "25,90",
+                                    "startOdds": "3,70"
+                                },
+                                "distribution":
+                                {
+                                    "distribution": "24",
+                                    "refDistribution": "24"
+                                }
+                            },
+                            {
+                                "outcome": "2",
+                                "odds":
+                                {
+                                    "odds": "2,19",
+                                    "favouriteOdds": "44,11",
+                                    "startOdds": "1,98"
+                                },
+                                "distribution":
+                                {
+                                    "distribution": "50",
+                                    "refDistribution": "48"
+                                }
+                            }
+                        ]
+                    },
+                    "complementaryBetMetrics":
+                    [],
+                    "outcomes": null,
+                    "svenskaFolket":
+                    {
+                        "one": "26",
+                        "x": "24",
+                        "two": "50",
+                        "date": "2023-01-13T19:26:04.085+01:00",
+                        "refOne": "28",
+                        "refX": "24",
+                        "refTwo": "48",
+                        "refDate": "2023-01-13T13:21:57.267+01:00"
+                    },
+                    "tioTidningarsTips":
+                    {
+                        "one": 3,
+                        "x": 0,
+                        "two": 7
+                    },
+                    "providerIds":
+                    [
+                        {
+                            "provider": "BetRadar",
+                            "type": "Normal",
+                            "id": "34152069"
+                        }
+                    ]
+                },
+                {
+                    "cancelled": false,
+                    "eventComment": "",
+                    "eventDescription": "Everton - Southampt",
+                    "extraInfo": null,
+                    "eventNumber": 3,
+                    "eventTypeId": 1,
+                    "participantType": "Team",
+                    "match":
+                    {
+                        "matchId": 8785,
+                        "matchStart": "2023-01-14T16:00:00+01:00",
+                        "status": "Inte startat",
+                        "statusId": 0,
+                        "sportEventStatus": "NotStarted",
+                        "statusTime": "2023-01-05T17:31:40+01:00",
+                        "coverage": 0,
+                        "participants":
+                        [
+                            {
+                                "id": 62,
+                                "type": "home",
+                                "name": "Everton",
+                                "trend": 0,
+                                "goalAvg": null,
+                                "shortName": "EVE",
+                                "mediumName": "Everton",
+                                "countryId": 2,
+                                "countryName": "England",
+                                "isoCode": "ENG",
+                                "managerId": 0,
+                                "arenaId": 0
+                            },
+                            {
+                                "id": 81,
+                                "type": "away",
+                                "name": "Southampton",
+                                "trend": 0,
+                                "goalAvg": null,
+                                "shortName": "SOU",
+                                "mediumName": "Southampt",
+                                "countryId": 2,
+                                "countryName": "England",
+                                "isoCode": "ENG",
+                                "managerId": 0,
+                                "arenaId": 0
+                            }
+                        ],
+                        "league":
+                        {
+                            "id": 1,
+                            "uniqueLeagueId": 0,
+                            "name": "Premier League",
+                            "shortName": null,
+                            "country":
+                            {
+                                "id": 2,
+                                "name": "England",
+                                "isoCode": "ENG",
+                                "population": 0
+                            },
+                            "code": null,
+                            "printAbbreviation": null,
+                            "season": null,
+                            "doShow": false,
+                            "isHome": false,
+                            "legacyKey": 0,
+                            "numTeams": 0,
+                            "popular": false,
+                            "rank": 0
+                        },
+                        "leagueTable": null,
+                        "result":
+                        [],
+                        "media": null,
+                        "mutuals": null
+                    },
+                    "odds":
+                    {
+                        "one": "2,24",
+                        "x": "3,40",
+                        "two": "3,39"
+                    },
+                    "favouriteOdds":
+                    {
+                        "one": "43.11",
+                        "x": "28.40",
+                        "two": "28.49"
+                    },
+                    "startOdds":
+                    {
+                        "one": "2,16",
+                        "x": "3,54",
+                        "two": "3,21"
+                    },
+                    "betMetrics":
+                    {
+                        "eventTypeId": 1,
+                        "eventType": "1X2",
+                        "eventSubTypeId": 2,
+                        "eventSubType": "Fulltid",
+                        "distributionDate": "2023-01-13T19:26:04.085+01:00",
+                        "distributionRefDate": "2023-01-13T13:21:57.267+01:00",
+                        "values":
+                        [
+                            {
+                                "outcome": "1",
+                                "odds":
+                                {
+                                    "odds": "2,24",
+                                    "favouriteOdds": "43,11",
+                                    "startOdds": "2,16"
+                                },
+                                "distribution":
+                                {
+                                    "distribution": "50",
+                                    "refDistribution": "52"
+                                }
+                            },
+                            {
+                                "outcome": "X",
+                                "odds":
+                                {
+                                    "odds": "3,40",
+                                    "favouriteOdds": "28,40",
+                                    "startOdds": "3,54"
+                                },
+                                "distribution":
+                                {
+                                    "distribution": "24",
+                                    "refDistribution": "24"
+                                }
+                            },
+                            {
+                                "outcome": "2",
+                                "odds":
+                                {
+                                    "odds": "3,39",
+                                    "favouriteOdds": "28,49",
+                                    "startOdds": "3,21"
+                                },
+                                "distribution":
+                                {
+                                    "distribution": "26",
+                                    "refDistribution": "24"
+                                }
+                            }
+                        ]
+                    },
+                    "complementaryBetMetrics":
+                    [],
+                    "outcomes": null,
+                    "svenskaFolket":
+                    {
+                        "one": "50",
+                        "x": "24",
+                        "two": "26",
+                        "date": "2023-01-13T19:26:04.085+01:00",
+                        "refOne": "52",
+                        "refX": "24",
+                        "refTwo": "24",
+                        "refDate": "2023-01-13T13:21:57.267+01:00"
+                    },
+                    "tioTidningarsTips":
+                    {
+                        "one": 8,
+                        "x": 1,
+                        "two": 1
+                    },
+                    "providerIds":
+                    [
+                        {
+                            "provider": "BetRadar",
+                            "type": "Normal",
+                            "id": "34152073"
+                        }
+                    ]
+                },
+                {
+                    "cancelled": false,
+                    "eventComment": "",
+                    "eventDescription": "Nottingha - Leicester",
+                    "extraInfo": null,
+                    "eventNumber": 4,
+                    "eventTypeId": 1,
+                    "participantType": "Team",
+                    "match":
+                    {
+                        "matchId": 8787,
+                        "matchStart": "2023-01-14T16:00:00+01:00",
+                        "status": "Inte startat",
+                        "statusId": 0,
+                        "sportEventStatus": "NotStarted",
+                        "statusTime": "2023-01-05T17:31:43+01:00",
+                        "coverage": 0,
+                        "participants":
+                        [
+                            {
+                                "id": 69,
+                                "type": "home",
+                                "name": "Nottingham Forest",
+                                "trend": 0,
+                                "goalAvg": null,
+                                "shortName": "NOF",
+                                "mediumName": "Nottingha",
+                                "countryId": 2,
+                                "countryName": "England",
+                                "isoCode": "ENG",
+                                "managerId": 0,
+                                "arenaId": 0
+                            },
+                            {
+                                "id": 60,
+                                "type": "away",
+                                "name": "Leicester",
+                                "trend": 0,
+                                "goalAvg": null,
+                                "shortName": "LEI",
+                                "mediumName": "Leicester",
+                                "countryId": 2,
+                                "countryName": "England",
+                                "isoCode": "ENG",
+                                "managerId": 0,
+                                "arenaId": 0
+                            }
+                        ],
+                        "league":
+                        {
+                            "id": 1,
+                            "uniqueLeagueId": 0,
+                            "name": "Premier League",
+                            "shortName": null,
+                            "country":
+                            {
+                                "id": 2,
+                                "name": "England",
+                                "isoCode": "ENG",
+                                "population": 0
+                            },
+                            "code": null,
+                            "printAbbreviation": null,
+                            "season": null,
+                            "doShow": false,
+                            "isHome": false,
+                            "legacyKey": 0,
+                            "numTeams": 0,
+                            "popular": false,
+                            "rank": 0
+                        },
+                        "leagueTable": null,
+                        "result":
+                        [],
+                        "media": null,
+                        "mutuals": null
+                    },
+                    "odds":
+                    {
+                        "one": "2,73",
+                        "x": "3,29",
+                        "two": "2,73"
+                    },
+                    "favouriteOdds":
+                    {
+                        "one": "35.34",
+                        "x": "29.32",
+                        "two": "35.34"
+                    },
+                    "startOdds":
+                    {
+                        "one": "2,81",
+                        "x": "3,29",
+                        "two": "2,52"
+                    },
+                    "betMetrics":
+                    {
+                        "eventTypeId": 1,
+                        "eventType": "1X2",
+                        "eventSubTypeId": 2,
+                        "eventSubType": "Fulltid",
+                        "distributionDate": "2023-01-13T19:26:04.085+01:00",
+                        "distributionRefDate": "2023-01-13T13:21:57.267+01:00",
+                        "values":
+                        [
+                            {
+                                "outcome": "1",
+                                "odds":
+                                {
+                                    "odds": "2,73",
+                                    "favouriteOdds": "35,34",
+                                    "startOdds": "2,81"
+                                },
+                                "distribution":
+                                {
+                                    "distribution": "38",
+                                    "refDistribution": "38"
+                                }
+                            },
+                            {
+                                "outcome": "X",
+                                "odds":
+                                {
+                                    "odds": "3,29",
+                                    "favouriteOdds": "29,32",
+                                    "startOdds": "3,29"
+                                },
+                                "distribution":
+                                {
+                                    "distribution": "25",
+                                    "refDistribution": "26"
+                                }
+                            },
+                            {
+                                "outcome": "2",
+                                "odds":
+                                {
+                                    "odds": "2,73",
+                                    "favouriteOdds": "35,34",
+                                    "startOdds": "2,52"
+                                },
+                                "distribution":
+                                {
+                                    "distribution": "37",
+                                    "refDistribution": "36"
+                                }
+                            }
+                        ]
+                    },
+                    "complementaryBetMetrics":
+                    [],
+                    "outcomes": null,
+                    "svenskaFolket":
+                    {
+                        "one": "38",
+                        "x": "25",
+                        "two": "37",
+                        "date": "2023-01-13T19:26:04.085+01:00",
+                        "refOne": "38",
+                        "refX": "26",
+                        "refTwo": "36",
+                        "refDate": "2023-01-13T13:21:57.267+01:00"
+                    },
+                    "tioTidningarsTips":
+                    {
+                        "one": 3,
+                        "x": 4,
+                        "two": 3
+                    },
+                    "providerIds":
+                    [
+                        {
+                            "provider": "BetRadar",
+                            "type": "Normal",
+                            "id": "34152079"
+                        }
+                    ]
+                },
+                {
+                    "cancelled": false,
+                    "eventComment": "",
+                    "eventDescription": "Wolves - West Ham",
+                    "extraInfo": null,
+                    "eventNumber": 5,
+                    "eventTypeId": 1,
+                    "participantType": "Team",
+                    "match":
+                    {
+                        "matchId": 8788,
+                        "matchStart": "2023-01-14T16:00:00+01:00",
+                        "status": "Inte startat",
+                        "statusId": 0,
+                        "sportEventStatus": "NotStarted",
+                        "statusTime": "2023-01-05T17:31:44+01:00",
+                        "coverage": 0,
+                        "participants":
+                        [
+                            {
+                                "id": 89,
+                                "type": "home",
+                                "name": "Wolverhampton",
+                                "trend": 0,
+                                "goalAvg": null,
+                                "shortName": "WOL",
+                                "mediumName": "Wolves",
+                                "countryId": 2,
+                                "countryName": "England",
+                                "isoCode": "ENG",
+                                "managerId": 0,
+                                "arenaId": 0
+                            },
+                            {
+                                "id": 52,
+                                "type": "away",
+                                "name": "West Ham",
+                                "trend": 0,
+                                "goalAvg": null,
+                                "shortName": "WHU",
+                                "mediumName": "West Ham",
+                                "countryId": 2,
+                                "countryName": "England",
+                                "isoCode": "ENG",
+                                "managerId": 0,
+                                "arenaId": 0
+                            }
+                        ],
+                        "league":
+                        {
+                            "id": 1,
+                            "uniqueLeagueId": 0,
+                            "name": "Premier League",
+                            "shortName": null,
+                            "country":
+                            {
+                                "id": 2,
+                                "name": "England",
+                                "isoCode": "ENG",
+                                "population": 0
+                            },
+                            "code": null,
+                            "printAbbreviation": null,
+                            "season": null,
+                            "doShow": false,
+                            "isHome": false,
+                            "legacyKey": 0,
+                            "numTeams": 0,
+                            "popular": false,
+                            "rank": 0
+                        },
+                        "leagueTable": null,
+                        "result":
+                        [],
+                        "media": null,
+                        "mutuals": null
+                    },
+                    "odds":
+                    {
+                        "one": "2,71",
+                        "x": "3,24",
+                        "two": "2,79"
+                    },
+                    "favouriteOdds":
+                    {
+                        "one": "35.62",
+                        "x": "29.79",
+                        "two": "34.59"
+                    },
+                    "startOdds":
+                    {
+                        "one": "2,73",
+                        "x": "3,24",
+                        "two": "2,61"
+                    },
+                    "betMetrics":
+                    {
+                        "eventTypeId": 1,
+                        "eventType": "1X2",
+                        "eventSubTypeId": 2,
+                        "eventSubType": "Fulltid",
+                        "distributionDate": "2023-01-13T19:26:04.085+01:00",
+                        "distributionRefDate": "2023-01-13T13:21:57.267+01:00",
+                        "values":
+                        [
+                            {
+                                "outcome": "1",
+                                "odds":
+                                {
+                                    "odds": "2,71",
+                                    "favouriteOdds": "35,62",
+                                    "startOdds": "2,73"
+                                },
+                                "distribution":
+                                {
+                                    "distribution": "42",
+                                    "refDistribution": "43"
+                                }
+                            },
+                            {
+                                "outcome": "X",
+                                "odds":
+                                {
+                                    "odds": "3,24",
+                                    "favouriteOdds": "29,79",
+                                    "startOdds": "3,24"
+                                },
+                                "distribution":
+                                {
+                                    "distribution": "29",
+                                    "refDistribution": "28"
+                                }
+                            },
+                            {
+                                "outcome": "2",
+                                "odds":
+                                {
+                                    "odds": "2,79",
+                                    "favouriteOdds": "34,59",
+                                    "startOdds": "2,61"
+                                },
+                                "distribution":
+                                {
+                                    "distribution": "29",
+                                    "refDistribution": "29"
+                                }
+                            }
+                        ]
+                    },
+                    "complementaryBetMetrics":
+                    [],
+                    "outcomes": null,
+                    "svenskaFolket":
+                    {
+                        "one": "42",
+                        "x": "29",
+                        "two": "29",
+                        "date": "2023-01-13T19:26:04.085+01:00",
+                        "refOne": "43",
+                        "refX": "28",
+                        "refTwo": "29",
+                        "refDate": "2023-01-13T13:21:57.267+01:00"
+                    },
+                    "tioTidningarsTips":
+                    {
+                        "one": 9,
+                        "x": 0,
+                        "two": 1
+                    },
+                    "providerIds":
+                    [
+                        {
+                            "provider": "BetRadar",
+                            "type": "Normal",
+                            "id": "34152083"
+                        }
+                    ]
+                },
+                {
+                    "cancelled": false,
+                    "eventComment": "",
+                    "eventDescription": "Bristol C - Birmingha",
+                    "extraInfo": null,
+                    "eventNumber": 6,
+                    "eventTypeId": 1,
+                    "participantType": "Team",
+                    "match":
+                    {
+                        "matchId": 8791,
+                        "matchStart": "2023-01-14T16:00:00+01:00",
+                        "status": "Inte startat",
+                        "statusId": 0,
+                        "sportEventStatus": "NotStarted",
+                        "statusTime": "2023-01-05T17:33:34+01:00",
+                        "coverage": 0,
+                        "participants":
+                        [
+                            {
+                                "id": 96,
+                                "type": "home",
+                                "name": "Bristol City",
+                                "trend": 0,
+                                "goalAvg": null,
+                                "shortName": "BRC",
+                                "mediumName": "Bristol C",
+                                "countryId": 2,
+                                "countryName": "England",
+                                "isoCode": "ENG",
+                                "managerId": 0,
+                                "arenaId": 0
+                            },
+                            {
+                                "id": 93,
+                                "type": "away",
+                                "name": "Birmingham",
+                                "trend": 0,
+                                "goalAvg": null,
+                                "shortName": "BIR",
+                                "mediumName": "Birmingha",
+                                "countryId": 2,
+                                "countryName": "England",
+                                "isoCode": "ENG",
+                                "managerId": 0,
+                                "arenaId": 0
+                            }
+                        ],
+                        "league":
+                        {
+                            "id": 6,
+                            "uniqueLeagueId": 0,
+                            "name": "Championship",
+                            "shortName": null,
+                            "country":
+                            {
+                                "id": 2,
+                                "name": "England",
+                                "isoCode": "ENG",
+                                "population": 0
+                            },
+                            "code": null,
+                            "printAbbreviation": null,
+                            "season": null,
+                            "doShow": false,
+                            "isHome": false,
+                            "legacyKey": 0,
+                            "numTeams": 0,
+                            "popular": false,
+                            "rank": 0
+                        },
+                        "leagueTable": null,
+                        "result":
+                        [],
+                        "media": null,
+                        "mutuals": null
+                    },
+                    "odds":
+                    {
+                        "one": "2,29",
+                        "x": "3,27",
+                        "two": "3,28"
+                    },
+                    "favouriteOdds":
+                    {
+                        "one": "41.69",
+                        "x": "29.20",
+                        "two": "29.11"
+                    },
+                    "startOdds":
+                    {
+                        "one": "2,23",
+                        "x": "3,24",
+                        "two": "3,20"
+                    },
+                    "betMetrics":
+                    {
+                        "eventTypeId": 1,
+                        "eventType": "1X2",
+                        "eventSubTypeId": 2,
+                        "eventSubType": "Fulltid",
+                        "distributionDate": "2023-01-13T19:26:04.085+01:00",
+                        "distributionRefDate": "2023-01-13T13:21:57.267+01:00",
+                        "values":
+                        [
+                            {
+                                "outcome": "1",
+                                "odds":
+                                {
+                                    "odds": "2,29",
+                                    "favouriteOdds": "41,69",
+                                    "startOdds": "2,23"
+                                },
+                                "distribution":
+                                {
+                                    "distribution": "49",
+                                    "refDistribution": "47"
+                                }
+                            },
+                            {
+                                "outcome": "X",
+                                "odds":
+                                {
+                                    "odds": "3,27",
+                                    "favouriteOdds": "29,20",
+                                    "startOdds": "3,24"
+                                },
+                                "distribution":
+                                {
+                                    "distribution": "26",
+                                    "refDistribution": "27"
+                                }
+                            },
+                            {
+                                "outcome": "2",
+                                "odds":
+                                {
+                                    "odds": "3,28",
+                                    "favouriteOdds": "29,11",
+                                    "startOdds": "3,20"
+                                },
+                                "distribution":
+                                {
+                                    "distribution": "25",
+                                    "refDistribution": "26"
+                                }
+                            }
+                        ]
+                    },
+                    "complementaryBetMetrics":
+                    [],
+                    "outcomes": null,
+                    "svenskaFolket":
+                    {
+                        "one": "49",
+                        "x": "26",
+                        "two": "25",
+                        "date": "2023-01-13T19:26:04.085+01:00",
+                        "refOne": "47",
+                        "refX": "27",
+                        "refTwo": "26",
+                        "refDate": "2023-01-13T13:21:57.267+01:00"
+                    },
+                    "tioTidningarsTips":
+                    {
+                        "one": 9,
+                        "x": 0,
+                        "two": 1
+                    },
+                    "providerIds":
+                    [
+                        {
+                            "provider": "BetRadar",
+                            "type": "Normal",
+                            "id": "34265767"
+                        }
+                    ]
+                },
+                {
+                    "cancelled": false,
+                    "eventComment": "",
+                    "eventDescription": "Cardiff - Wigan",
+                    "extraInfo": null,
+                    "eventNumber": 7,
+                    "eventTypeId": 1,
+                    "participantType": "Team",
+                    "match":
+                    {
+                        "matchId": 8792,
+                        "matchStart": "2023-01-14T16:00:00+01:00",
+                        "status": "Inte startat",
+                        "statusId": 0,
+                        "sportEventStatus": "NotStarted",
+                        "statusTime": "2023-01-05T17:33:35+01:00",
+                        "coverage": 0,
+                        "participants":
+                        [
+                            {
+                                "id": 90,
+                                "type": "home",
+                                "name": "Cardiff",
+                                "trend": 0,
+                                "goalAvg": null,
+                                "shortName": "CAR",
+                                "mediumName": "Cardiff",
+                                "countryId": 2,
+                                "countryName": "England",
+                                "isoCode": "ENG",
+                                "managerId": 0,
+                                "arenaId": 0
+                            },
+                            {
+                                "id": 111,
+                                "type": "away",
+                                "name": "Wigan",
+                                "trend": 0,
+                                "goalAvg": null,
+                                "shortName": "WIG",
+                                "mediumName": "Wigan",
+                                "countryId": 2,
+                                "countryName": "England",
+                                "isoCode": "ENG",
+                                "managerId": 0,
+                                "arenaId": 0
+                            }
+                        ],
+                        "league":
+                        {
+                            "id": 6,
+                            "uniqueLeagueId": 0,
+                            "name": "Championship",
+                            "shortName": null,
+                            "country":
+                            {
+                                "id": 2,
+                                "name": "England",
+                                "isoCode": "ENG",
+                                "population": 0
+                            },
+                            "code": null,
+                            "printAbbreviation": null,
+                            "season": null,
+                            "doShow": false,
+                            "isHome": false,
+                            "legacyKey": 0,
+                            "numTeams": 0,
+                            "popular": false,
+                            "rank": 0
+                        },
+                        "leagueTable": null,
+                        "result":
+                        [],
+                        "media": null,
+                        "mutuals": null
+                    },
+                    "odds":
+                    {
+                        "one": "2,01",
+                        "x": "3,44",
+                        "two": "3,85"
+                    },
+                    "favouriteOdds":
+                    {
+                        "one": "47.47",
+                        "x": "27.74",
+                        "two": "24.79"
+                    },
+                    "startOdds":
+                    {
+                        "one": "1,94",
+                        "x": "3,39",
+                        "two": "3,86"
+                    },
+                    "betMetrics":
+                    {
+                        "eventTypeId": 1,
+                        "eventType": "1X2",
+                        "eventSubTypeId": 2,
+                        "eventSubType": "Fulltid",
+                        "distributionDate": "2023-01-13T19:26:04.085+01:00",
+                        "distributionRefDate": "2023-01-13T13:21:57.267+01:00",
+                        "values":
+                        [
+                            {
+                                "outcome": "1",
+                                "odds":
+                                {
+                                    "odds": "2,01",
+                                    "favouriteOdds": "47,47",
+                                    "startOdds": "1,94"
+                                },
+                                "distribution":
+                                {
+                                    "distribution": "64",
+                                    "refDistribution": "62"
+                                }
+                            },
+                            {
+                                "outcome": "X",
+                                "odds":
+                                {
+                                    "odds": "3,44",
+                                    "favouriteOdds": "27,74",
+                                    "startOdds": "3,39"
+                                },
+                                "distribution":
+                                {
+                                    "distribution": "22",
+                                    "refDistribution": "22"
+                                }
+                            },
+                            {
+                                "outcome": "2",
+                                "odds":
+                                {
+                                    "odds": "3,85",
+                                    "favouriteOdds": "24,79",
+                                    "startOdds": "3,86"
+                                },
+                                "distribution":
+                                {
+                                    "distribution": "14",
+                                    "refDistribution": "16"
+                                }
+                            }
+                        ]
+                    },
+                    "complementaryBetMetrics":
+                    [],
+                    "outcomes": null,
+                    "svenskaFolket":
+                    {
+                        "one": "64",
+                        "x": "22",
+                        "two": "14",
+                        "date": "2023-01-13T19:26:04.085+01:00",
+                        "refOne": "62",
+                        "refX": "22",
+                        "refTwo": "16",
+                        "refDate": "2023-01-13T13:21:57.267+01:00"
+                    },
+                    "tioTidningarsTips":
+                    {
+                        "one": 10,
+                        "x": 0,
+                        "two": 0
+                    },
+                    "providerIds":
+                    [
+                        {
+                            "provider": "BetRadar",
+                            "type": "Normal",
+                            "id": "34265771"
+                        }
+                    ]
+                },
+                {
+                    "cancelled": false,
+                    "eventComment": "",
+                    "eventDescription": "Hull - Huddersfi",
+                    "extraInfo": null,
+                    "eventNumber": 8,
+                    "eventTypeId": 1,
+                    "participantType": "Team",
+                    "match":
+                    {
+                        "matchId": 8797,
+                        "matchStart": "2023-01-14T16:00:00+01:00",
+                        "status": "Inte startat",
+                        "statusId": 0,
+                        "sportEventStatus": "NotStarted",
+                        "statusTime": "2023-01-05T17:33:41+01:00",
+                        "coverage": 0,
+                        "participants":
+                        [
+                            {
+                                "id": 92,
+                                "type": "home",
+                                "name": "Hull",
+                                "trend": 0,
+                                "goalAvg": null,
+                                "shortName": "HUL",
+                                "mediumName": "Hull",
+                                "countryId": 2,
+                                "countryName": "England",
+                                "isoCode": "ENG",
+                                "managerId": 0,
+                                "arenaId": 0
+                            },
+                            {
+                                "id": 94,
+                                "type": "away",
+                                "name": "Huddersfield",
+                                "trend": 0,
+                                "goalAvg": null,
+                                "shortName": "HUD",
+                                "mediumName": "Huddersfi",
+                                "countryId": 2,
+                                "countryName": "England",
+                                "isoCode": "ENG",
+                                "managerId": 0,
+                                "arenaId": 0
+                            }
+                        ],
+                        "league":
+                        {
+                            "id": 6,
+                            "uniqueLeagueId": 0,
+                            "name": "Championship",
+                            "shortName": null,
+                            "country":
+                            {
+                                "id": 2,
+                                "name": "England",
+                                "isoCode": "ENG",
+                                "population": 0
+                            },
+                            "code": null,
+                            "printAbbreviation": null,
+                            "season": null,
+                            "doShow": false,
+                            "isHome": false,
+                            "legacyKey": 0,
+                            "numTeams": 0,
+                            "popular": false,
+                            "rank": 0
+                        },
+                        "leagueTable": null,
+                        "result":
+                        [],
+                        "media": null,
+                        "mutuals": null
+                    },
+                    "odds":
+                    {
+                        "one": "1,97",
+                        "x": "3,42",
+                        "two": "4,05"
+                    },
+                    "favouriteOdds":
+                    {
+                        "one": "48.49",
+                        "x": "27.93",
+                        "two": "23.58"
+                    },
+                    "startOdds":
+                    {
+                        "one": "1,93",
+                        "x": "3,42",
+                        "two": "3,86"
+                    },
+                    "betMetrics":
+                    {
+                        "eventTypeId": 1,
+                        "eventType": "1X2",
+                        "eventSubTypeId": 2,
+                        "eventSubType": "Fulltid",
+                        "distributionDate": "2023-01-13T19:26:04.085+01:00",
+                        "distributionRefDate": "2023-01-13T13:21:57.267+01:00",
+                        "values":
+                        [
+                            {
+                                "outcome": "1",
+                                "odds":
+                                {
+                                    "odds": "1,97",
+                                    "favouriteOdds": "48,49",
+                                    "startOdds": "1,93"
+                                },
+                                "distribution":
+                                {
+                                    "distribution": "60",
+                                    "refDistribution": "60"
+                                }
+                            },
+                            {
+                                "outcome": "X",
+                                "odds":
+                                {
+                                    "odds": "3,42",
+                                    "favouriteOdds": "27,93",
+                                    "startOdds": "3,42"
+                                },
+                                "distribution":
+                                {
+                                    "distribution": "21",
+                                    "refDistribution": "21"
+                                }
+                            },
+                            {
+                                "outcome": "2",
+                                "odds":
+                                {
+                                    "odds": "4,05",
+                                    "favouriteOdds": "23,58",
+                                    "startOdds": "3,86"
+                                },
+                                "distribution":
+                                {
+                                    "distribution": "19",
+                                    "refDistribution": "19"
+                                }
+                            }
+                        ]
+                    },
+                    "complementaryBetMetrics":
+                    [],
+                    "outcomes": null,
+                    "svenskaFolket":
+                    {
+                        "one": "60",
+                        "x": "21",
+                        "two": "19",
+                        "date": "2023-01-13T19:26:04.085+01:00",
+                        "refOne": "60",
+                        "refX": "21",
+                        "refTwo": "19",
+                        "refDate": "2023-01-13T13:21:57.267+01:00"
+                    },
+                    "tioTidningarsTips":
+                    {
+                        "one": 9,
+                        "x": 1,
+                        "two": 0
+                    },
+                    "providerIds":
+                    [
+                        {
+                            "provider": "BetRadar",
+                            "type": "Normal",
+                            "id": "34265773"
+                        }
+                    ]
+                },
+                {
+                    "cancelled": false,
+                    "eventComment": "",
+                    "eventDescription": "Luton - West Brom",
+                    "extraInfo": null,
+                    "eventNumber": 9,
+                    "eventTypeId": 1,
+                    "participantType": "Team",
+                    "match":
+                    {
+                        "matchId": 8799,
+                        "matchStart": "2023-01-14T16:00:00+01:00",
+                        "status": "Inte startat",
+                        "statusId": 0,
+                        "sportEventStatus": "NotStarted",
+                        "statusTime": "2023-01-05T17:33:43+01:00",
+                        "coverage": 0,
+                        "participants":
+                        [
+                            {
+                                "id": 36,
+                                "type": "home",
+                                "name": "Luton",
+                                "trend": 0,
+                                "goalAvg": null,
+                                "shortName": "LUT",
+                                "mediumName": "Luton",
+                                "countryId": 2,
+                                "countryName": "England",
+                                "isoCode": "ENG",
+                                "managerId": 0,
+                                "arenaId": 0
+                            },
+                            {
+                                "id": 63,
+                                "type": "away",
+                                "name": "West Bromwich",
+                                "trend": 0,
+                                "goalAvg": null,
+                                "shortName": "WBA",
+                                "mediumName": "West Brom",
+                                "countryId": 2,
+                                "countryName": "England",
+                                "isoCode": "ENG",
+                                "managerId": 0,
+                                "arenaId": 0
+                            }
+                        ],
+                        "league":
+                        {
+                            "id": 6,
+                            "uniqueLeagueId": 0,
+                            "name": "Championship",
+                            "shortName": null,
+                            "country":
+                            {
+                                "id": 2,
+                                "name": "England",
+                                "isoCode": "ENG",
+                                "population": 0
+                            },
+                            "code": null,
+                            "printAbbreviation": null,
+                            "season": null,
+                            "doShow": false,
+                            "isHome": false,
+                            "legacyKey": 0,
+                            "numTeams": 0,
+                            "popular": false,
+                            "rank": 0
+                        },
+                        "leagueTable": null,
+                        "result":
+                        [],
+                        "media": null,
+                        "mutuals": null
+                    },
+                    "odds":
+                    {
+                        "one": "2,98",
+                        "x": "3,20",
+                        "two": "2,51"
+                    },
+                    "favouriteOdds":
+                    {
+                        "one": "32.07",
+                        "x": "29.86",
+                        "two": "38.07"
+                    },
+                    "startOdds":
+                    {
+                        "one": "3,02",
+                        "x": "3,13",
+                        "two": "2,39"
+                    },
+                    "betMetrics":
+                    {
+                        "eventTypeId": 1,
+                        "eventType": "1X2",
+                        "eventSubTypeId": 2,
+                        "eventSubType": "Fulltid",
+                        "distributionDate": "2023-01-13T19:26:04.085+01:00",
+                        "distributionRefDate": "2023-01-13T13:21:57.267+01:00",
+                        "values":
+                        [
+                            {
+                                "outcome": "1",
+                                "odds":
+                                {
+                                    "odds": "2,98",
+                                    "favouriteOdds": "32,07",
+                                    "startOdds": "3,02"
+                                },
+                                "distribution":
+                                {
+                                    "distribution": "32",
+                                    "refDistribution": "34"
+                                }
+                            },
+                            {
+                                "outcome": "X",
+                                "odds":
+                                {
+                                    "odds": "3,20",
+                                    "favouriteOdds": "29,86",
+                                    "startOdds": "3,13"
+                                },
+                                "distribution":
+                                {
+                                    "distribution": "28",
+                                    "refDistribution": "28"
+                                }
+                            },
+                            {
+                                "outcome": "2",
+                                "odds":
+                                {
+                                    "odds": "2,51",
+                                    "favouriteOdds": "38,07",
+                                    "startOdds": "2,39"
+                                },
+                                "distribution":
+                                {
+                                    "distribution": "40",
+                                    "refDistribution": "38"
+                                }
+                            }
+                        ]
+                    },
+                    "complementaryBetMetrics":
+                    [],
+                    "outcomes": null,
+                    "svenskaFolket":
+                    {
+                        "one": "32",
+                        "x": "28",
+                        "two": "40",
+                        "date": "2023-01-13T19:26:04.085+01:00",
+                        "refOne": "34",
+                        "refX": "28",
+                        "refTwo": "38",
+                        "refDate": "2023-01-13T13:21:57.267+01:00"
+                    },
+                    "tioTidningarsTips":
+                    {
+                        "one": 3,
+                        "x": 0,
+                        "two": 7
+                    },
+                    "providerIds":
+                    [
+                        {
+                            "provider": "BetRadar",
+                            "type": "Normal",
+                            "id": "34265775"
+                        }
+                    ]
+                },
+                {
+                    "cancelled": false,
+                    "eventComment": "",
+                    "eventDescription": "Middlesbr - Millwall",
+                    "extraInfo": null,
+                    "eventNumber": 10,
+                    "eventTypeId": 1,
+                    "participantType": "Team",
+                    "match":
+                    {
+                        "matchId": 8793,
+                        "matchStart": "2023-01-14T16:00:00+01:00",
+                        "status": "Inte startat",
+                        "statusId": 0,
+                        "sportEventStatus": "NotStarted",
+                        "statusTime": "2023-01-05T17:33:36+01:00",
+                        "coverage": 0,
+                        "participants":
+                        [
+                            {
+                                "id": 67,
+                                "type": "home",
+                                "name": "Middlesbrough",
+                                "trend": 0,
+                                "goalAvg": null,
+                                "shortName": "MID",
+                                "mediumName": "Middlesbr",
+                                "countryId": 2,
+                                "countryName": "England",
+                                "isoCode": "ENG",
+                                "managerId": 0,
+                                "arenaId": 0
+                            },
+                            {
+                                "id": 33,
+                                "type": "away",
+                                "name": "Millwall",
+                                "trend": 0,
+                                "goalAvg": null,
+                                "shortName": "MIL",
+                                "mediumName": "Millwall",
+                                "countryId": 2,
+                                "countryName": "England",
+                                "isoCode": "ENG",
+                                "managerId": 0,
+                                "arenaId": 0
+                            }
+                        ],
+                        "league":
+                        {
+                            "id": 6,
+                            "uniqueLeagueId": 0,
+                            "name": "Championship",
+                            "shortName": null,
+                            "country":
+                            {
+                                "id": 2,
+                                "name": "England",
+                                "isoCode": "ENG",
+                                "population": 0
+                            },
+                            "code": null,
+                            "printAbbreviation": null,
+                            "season": null,
+                            "doShow": false,
+                            "isHome": false,
+                            "legacyKey": 0,
+                            "numTeams": 0,
+                            "popular": false,
+                            "rank": 0
+                        },
+                        "leagueTable": null,
+                        "result":
+                        [],
+                        "media": null,
+                        "mutuals": null
+                    },
+                    "odds":
+                    {
+                        "one": "1,94",
+                        "x": "3,50",
+                        "two": "4,05"
+                    },
+                    "favouriteOdds":
+                    {
+                        "one": "49.18",
+                        "x": "27.26",
+                        "two": "23.56"
+                    },
+                    "startOdds":
+                    {
+                        "one": "1,92",
+                        "x": "3,42",
+                        "two": "3,88"
+                    },
+                    "betMetrics":
+                    {
+                        "eventTypeId": 1,
+                        "eventType": "1X2",
+                        "eventSubTypeId": 2,
+                        "eventSubType": "Fulltid",
+                        "distributionDate": "2023-01-13T19:26:04.085+01:00",
+                        "distributionRefDate": "2023-01-13T13:21:57.267+01:00",
+                        "values":
+                        [
+                            {
+                                "outcome": "1",
+                                "odds":
+                                {
+                                    "odds": "1,94",
+                                    "favouriteOdds": "49,18",
+                                    "startOdds": "1,92"
+                                },
+                                "distribution":
+                                {
+                                    "distribution": "68",
+                                    "refDistribution": "65"
+                                }
+                            },
+                            {
+                                "outcome": "X",
+                                "odds":
+                                {
+                                    "odds": "3,50",
+                                    "favouriteOdds": "27,26",
+                                    "startOdds": "3,42"
+                                },
+                                "distribution":
+                                {
+                                    "distribution": "19",
+                                    "refDistribution": "20"
+                                }
+                            },
+                            {
+                                "outcome": "2",
+                                "odds":
+                                {
+                                    "odds": "4,05",
+                                    "favouriteOdds": "23,56",
+                                    "startOdds": "3,88"
+                                },
+                                "distribution":
+                                {
+                                    "distribution": "13",
+                                    "refDistribution": "15"
+                                }
+                            }
+                        ]
+                    },
+                    "complementaryBetMetrics":
+                    [],
+                    "outcomes": null,
+                    "svenskaFolket":
+                    {
+                        "one": "68",
+                        "x": "19",
+                        "two": "13",
+                        "date": "2023-01-13T19:26:04.085+01:00",
+                        "refOne": "65",
+                        "refX": "20",
+                        "refTwo": "15",
+                        "refDate": "2023-01-13T13:21:57.267+01:00"
+                    },
+                    "tioTidningarsTips":
+                    {
+                        "one": 10,
+                        "x": 0,
+                        "two": 0
+                    },
+                    "providerIds":
+                    [
+                        {
+                            "provider": "BetRadar",
+                            "type": "Normal",
+                            "id": "34265777"
+                        }
+                    ]
+                },
+                {
+                    "cancelled": false,
+                    "eventComment": "",
+                    "eventDescription": "Preston - Norwich",
+                    "extraInfo": null,
+                    "eventNumber": 11,
+                    "eventTypeId": 1,
+                    "participantType": "Team",
+                    "match":
+                    {
+                        "matchId": 8801,
+                        "matchStart": "2023-01-14T16:00:00+01:00",
+                        "status": "Inte startat",
+                        "statusId": 0,
+                        "sportEventStatus": "NotStarted",
+                        "statusTime": "2023-01-05T17:33:45+01:00",
+                        "coverage": 0,
+                        "participants":
+                        [
+                            {
+                                "id": 37,
+                                "type": "home",
+                                "name": "Preston",
+                                "trend": 0,
+                                "goalAvg": null,
+                                "shortName": "PRE",
+                                "mediumName": "Preston",
+                                "countryId": 2,
+                                "countryName": "England",
+                                "isoCode": "ENG",
+                                "managerId": 0,
+                                "arenaId": 0
+                            },
+                            {
+                                "id": 6,
+                                "type": "away",
+                                "name": "Norwich",
+                                "trend": 0,
+                                "goalAvg": null,
+                                "shortName": "NOR",
+                                "mediumName": "Norwich",
+                                "countryId": 2,
+                                "countryName": "England",
+                                "isoCode": "ENG",
+                                "managerId": 0,
+                                "arenaId": 0
+                            }
+                        ],
+                        "league":
+                        {
+                            "id": 6,
+                            "uniqueLeagueId": 0,
+                            "name": "Championship",
+                            "shortName": null,
+                            "country":
+                            {
+                                "id": 2,
+                                "name": "England",
+                                "isoCode": "ENG",
+                                "population": 0
+                            },
+                            "code": null,
+                            "printAbbreviation": null,
+                            "season": null,
+                            "doShow": false,
+                            "isHome": false,
+                            "legacyKey": 0,
+                            "numTeams": 0,
+                            "popular": false,
+                            "rank": 0
+                        },
+                        "leagueTable": null,
+                        "result":
+                        [],
+                        "media": null,
+                        "mutuals": null
+                    },
+                    "odds":
+                    {
+                        "one": "2,90",
+                        "x": "3,29",
+                        "two": "2,51"
+                    },
+                    "favouriteOdds":
+                    {
+                        "one": "32.93",
+                        "x": "29.03",
+                        "two": "38.05"
+                    },
+                    "startOdds":
+                    {
+                        "one": "2,87",
+                        "x": "3,23",
+                        "two": "2,43"
+                    },
+                    "betMetrics":
+                    {
+                        "eventTypeId": 1,
+                        "eventType": "1X2",
+                        "eventSubTypeId": 2,
+                        "eventSubType": "Fulltid",
+                        "distributionDate": "2023-01-13T19:26:04.085+01:00",
+                        "distributionRefDate": "2023-01-13T13:21:57.267+01:00",
+                        "values":
+                        [
+                            {
+                                "outcome": "1",
+                                "odds":
+                                {
+                                    "odds": "2,90",
+                                    "favouriteOdds": "32,93",
+                                    "startOdds": "2,87"
+                                },
+                                "distribution":
+                                {
+                                    "distribution": "33",
+                                    "refDistribution": "36"
+                                }
+                            },
+                            {
+                                "outcome": "X",
+                                "odds":
+                                {
+                                    "odds": "3,29",
+                                    "favouriteOdds": "29,03",
+                                    "startOdds": "3,23"
+                                },
+                                "distribution":
+                                {
+                                    "distribution": "24",
+                                    "refDistribution": "25"
+                                }
+                            },
+                            {
+                                "outcome": "2",
+                                "odds":
+                                {
+                                    "odds": "2,51",
+                                    "favouriteOdds": "38,05",
+                                    "startOdds": "2,43"
+                                },
+                                "distribution":
+                                {
+                                    "distribution": "43",
+                                    "refDistribution": "39"
+                                }
+                            }
+                        ]
+                    },
+                    "complementaryBetMetrics":
+                    [],
+                    "outcomes": null,
+                    "svenskaFolket":
+                    {
+                        "one": "33",
+                        "x": "24",
+                        "two": "43",
+                        "date": "2023-01-13T19:26:04.085+01:00",
+                        "refOne": "36",
+                        "refX": "25",
+                        "refTwo": "39",
+                        "refDate": "2023-01-13T13:21:57.267+01:00"
+                    },
+                    "tioTidningarsTips":
+                    {
+                        "one": 4,
+                        "x": 0,
+                        "two": 6
+                    },
+                    "providerIds":
+                    [
+                        {
+                            "provider": "BetRadar",
+                            "type": "Normal",
+                            "id": "34265779"
+                        }
+                    ]
+                },
+                {
+                    "cancelled": false,
+                    "eventComment": "",
+                    "eventDescription": "Reading - QPR",
+                    "extraInfo": null,
+                    "eventNumber": 12,
+                    "eventTypeId": 1,
+                    "participantType": "Team",
+                    "match":
+                    {
+                        "matchId": 8794,
+                        "matchStart": "2023-01-14T16:00:00+01:00",
+                        "status": "Inte startat",
+                        "statusId": 0,
+                        "sportEventStatus": "NotStarted",
+                        "statusTime": "2023-01-05T17:33:37+01:00",
+                        "coverage": 0,
+                        "participants":
+                        [
+                            {
+                                "id": 31,
+                                "type": "home",
+                                "name": "Reading",
+                                "trend": 0,
+                                "goalAvg": null,
+                                "shortName": "REA",
+                                "mediumName": "Reading",
+                                "countryId": 2,
+                                "countryName": "England",
+                                "isoCode": "ENG",
+                                "managerId": 0,
+                                "arenaId": 0
+                            },
+                            {
+                                "id": 40,
+                                "type": "away",
+                                "name": "Queens Park Rangers",
+                                "trend": 0,
+                                "goalAvg": null,
+                                "shortName": "QPR",
+                                "mediumName": "QPR",
+                                "countryId": 2,
+                                "countryName": "England",
+                                "isoCode": "ENG",
+                                "managerId": 0,
+                                "arenaId": 0
+                            }
+                        ],
+                        "league":
+                        {
+                            "id": 6,
+                            "uniqueLeagueId": 0,
+                            "name": "Championship",
+                            "shortName": null,
+                            "country":
+                            {
+                                "id": 2,
+                                "name": "England",
+                                "isoCode": "ENG",
+                                "population": 0
+                            },
+                            "code": null,
+                            "printAbbreviation": null,
+                            "season": null,
+                            "doShow": false,
+                            "isHome": false,
+                            "legacyKey": 0,
+                            "numTeams": 0,
+                            "popular": false,
+                            "rank": 0
+                        },
+                        "leagueTable": null,
+                        "result":
+                        [],
+                        "media": null,
+                        "mutuals": null
+                    },
+                    "odds":
+                    {
+                        "one": "2,74",
+                        "x": "3,15",
+                        "two": "2,74"
+                    },
+                    "favouriteOdds":
+                    {
+                        "one": "34.85",
+                        "x": "30.31",
+                        "two": "34.85"
+                    },
+                    "startOdds":
+                    {
+                        "one": "2,52",
+                        "x": "3,05",
+                        "two": "2,91"
+                    },
+                    "betMetrics":
+                    {
+                        "eventTypeId": 1,
+                        "eventType": "1X2",
+                        "eventSubTypeId": 2,
+                        "eventSubType": "Fulltid",
+                        "distributionDate": "2023-01-13T19:26:04.085+01:00",
+                        "distributionRefDate": "2023-01-13T13:21:57.267+01:00",
+                        "values":
+                        [
+                            {
+                                "outcome": "1",
+                                "odds":
+                                {
+                                    "odds": "2,74",
+                                    "favouriteOdds": "34,85",
+                                    "startOdds": "2,52"
+                                },
+                                "distribution":
+                                {
+                                    "distribution": "42",
+                                    "refDistribution": "43"
+                                }
+                            },
+                            {
+                                "outcome": "X",
+                                "odds":
+                                {
+                                    "odds": "3,15",
+                                    "favouriteOdds": "30,31",
+                                    "startOdds": "3,05"
+                                },
+                                "distribution":
+                                {
+                                    "distribution": "25",
+                                    "refDistribution": "25"
+                                }
+                            },
+                            {
+                                "outcome": "2",
+                                "odds":
+                                {
+                                    "odds": "2,74",
+                                    "favouriteOdds": "34,85",
+                                    "startOdds": "2,91"
+                                },
+                                "distribution":
+                                {
+                                    "distribution": "33",
+                                    "refDistribution": "32"
+                                }
+                            }
+                        ]
+                    },
+                    "complementaryBetMetrics":
+                    [],
+                    "outcomes": null,
+                    "svenskaFolket":
+                    {
+                        "one": "42",
+                        "x": "25",
+                        "two": "33",
+                        "date": "2023-01-13T19:26:04.085+01:00",
+                        "refOne": "43",
+                        "refX": "25",
+                        "refTwo": "32",
+                        "refDate": "2023-01-13T13:21:57.267+01:00"
+                    },
+                    "tioTidningarsTips":
+                    {
+                        "one": 7,
+                        "x": 1,
+                        "two": 2
+                    },
+                    "providerIds":
+                    [
+                        {
+                            "provider": "BetRadar",
+                            "type": "Normal",
+                            "id": "34265781"
+                        }
+                    ]
+                },
+                {
+                    "cancelled": false,
+                    "eventComment": "",
+                    "eventDescription": "Sunderlan - Swansea",
+                    "extraInfo": null,
+                    "eventNumber": 13,
+                    "eventTypeId": 1,
+                    "participantType": "Team",
+                    "match":
+                    {
+                        "matchId": 8798,
+                        "matchStart": "2023-01-14T16:00:00+01:00",
+                        "status": "Inte startat",
+                        "statusId": 0,
+                        "sportEventStatus": "NotStarted",
+                        "statusTime": "2023-01-05T17:33:42+01:00",
+                        "coverage": 0,
+                        "participants":
+                        [
+                            {
+                                "id": 129,
+                                "type": "home",
+                                "name": "Sunderland",
+                                "trend": 0,
+                                "goalAvg": null,
+                                "shortName": "SUN",
+                                "mediumName": "Sunderlan",
+                                "countryId": 2,
+                                "countryName": "England",
+                                "isoCode": "ENG",
+                                "managerId": 0,
+                                "arenaId": 0
+                            },
+                            {
+                                "id": 34,
+                                "type": "away",
+                                "name": "Swansea",
+                                "trend": 0,
+                                "goalAvg": null,
+                                "shortName": "SWA",
+                                "mediumName": "Swansea",
+                                "countryId": 2,
+                                "countryName": "England",
+                                "isoCode": "ENG",
+                                "managerId": 0,
+                                "arenaId": 0
+                            }
+                        ],
+                        "league":
+                        {
+                            "id": 6,
+                            "uniqueLeagueId": 0,
+                            "name": "Championship",
+                            "shortName": null,
+                            "country":
+                            {
+                                "id": 2,
+                                "name": "England",
+                                "isoCode": "ENG",
+                                "population": 0
+                            },
+                            "code": null,
+                            "printAbbreviation": null,
+                            "season": null,
+                            "doShow": false,
+                            "isHome": false,
+                            "legacyKey": 0,
+                            "numTeams": 0,
+                            "popular": false,
+                            "rank": 0
+                        },
+                        "leagueTable": null,
+                        "result":
+                        [],
+                        "media": null,
+                        "mutuals": null
+                    },
+                    "odds":
+                    {
+                        "one": "2,59",
+                        "x": "3,30",
+                        "two": "2,80"
+                    },
+                    "favouriteOdds":
+                    {
+                        "one": "36.90",
+                        "x": "28.96",
+                        "two": "34.13"
+                    },
+                    "startOdds":
+                    {
+                        "one": "2,44",
+                        "x": "3,16",
+                        "two": "2,91"
+                    },
+                    "betMetrics":
+                    {
+                        "eventTypeId": 1,
+                        "eventType": "1X2",
+                        "eventSubTypeId": 2,
+                        "eventSubType": "Fulltid",
+                        "distributionDate": "2023-01-13T19:26:04.085+01:00",
+                        "distributionRefDate": "2023-01-13T13:21:57.267+01:00",
+                        "values":
+                        [
+                            {
+                                "outcome": "1",
+                                "odds":
+                                {
+                                    "odds": "2,59",
+                                    "favouriteOdds": "36,90",
+                                    "startOdds": "2,44"
+                                },
+                                "distribution":
+                                {
+                                    "distribution": "54",
+                                    "refDistribution": "54"
+                                }
+                            },
+                            {
+                                "outcome": "X",
+                                "odds":
+                                {
+                                    "odds": "3,30",
+                                    "favouriteOdds": "28,96",
+                                    "startOdds": "3,16"
+                                },
+                                "distribution":
+                                {
+                                    "distribution": "25",
+                                    "refDistribution": "25"
+                                }
+                            },
+                            {
+                                "outcome": "2",
+                                "odds":
+                                {
+                                    "odds": "2,80",
+                                    "favouriteOdds": "34,13",
+                                    "startOdds": "2,91"
+                                },
+                                "distribution":
+                                {
+                                    "distribution": "21",
+                                    "refDistribution": "21"
+                                }
+                            }
+                        ]
+                    },
+                    "complementaryBetMetrics":
+                    [],
+                    "outcomes": null,
+                    "svenskaFolket":
+                    {
+                        "one": "54",
+                        "x": "25",
+                        "two": "21",
+                        "date": "2023-01-13T19:26:04.085+01:00",
+                        "refOne": "54",
+                        "refX": "25",
+                        "refTwo": "21",
+                        "refDate": "2023-01-13T13:21:57.267+01:00"
+                    },
+                    "tioTidningarsTips":
+                    {
+                        "one": 8,
+                        "x": 0,
+                        "two": 2
+                    },
+                    "providerIds":
+                    [
+                        {
+                            "provider": "BetRadar",
+                            "type": "Normal",
+                            "id": "34265787"
+                        }
+                    ]
+                }
+            ],
+            "roomKeys":
+            {
+                "keys":
+                [
+                    "junoinfopusher_stryk_4777_drawstart",
+                    "junoinfopusher_stryk_4777_drawresult",
+                    "junoinfopusher_8786_sport2sporteventcurrentresult",
+                    "junoinfopusher_8790_sport2sporteventcurrentresult",
+                    "junoinfopusher_8785_sport2sporteventcurrentresult",
+                    "junoinfopusher_8787_sport2sporteventcurrentresult",
+                    "junoinfopusher_8788_sport2sporteventcurrentresult",
+                    "junoinfopusher_8791_sport2sporteventcurrentresult",
+                    "junoinfopusher_8792_sport2sporteventcurrentresult",
+                    "junoinfopusher_8797_sport2sporteventcurrentresult",
+                    "junoinfopusher_8799_sport2sporteventcurrentresult",
+                    "junoinfopusher_8793_sport2sporteventcurrentresult",
+                    "junoinfopusher_8801_sport2sporteventcurrentresult",
+                    "junoinfopusher_8794_sport2sporteventcurrentresult",
+                    "junoinfopusher_8798_sport2sporteventcurrentresult"
+                ],
+                "timeToLive": "2023-01-23T16:00:00+01:00"
+            },
+            "retailerOpenTime": "2023-01-09T20:00:00+01:00",
+            "retailerCloseTime": "2023-01-14T15:59:00+01:00",
+            "retailerCancelCloseTime": "2023-01-14T16:00:00+01:00",
+            "lastDateWithoutTimeOfDay": "2023-01-15T00:00:00+01:00"
+        }
+    ],
+    "error": null,
+    "requestInfo":
+    {
+        "elapsedTime": 2,
+        "apiVersion": 1
+    },
+    "requestId": "80911896-b2dc-4124-9dd2-e75b0e321d61",
+    "sessionId": null,
+    "deviceId": "0be336a7-dcd2-4644-8e77-b35f0d4cf102",
+    "session": null,
+    "sessionUser": null,
+    "clientInfo": null
+}
